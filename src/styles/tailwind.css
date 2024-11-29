@@ -1,0 +1,30 @@
+.progress-circle {
+  width: 100px;
+  height: 100px;
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  .progress-circle {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1280px) {
+  .progress-circle {
+    width: 200px;
+    height: 200px;
+  }
+}
+
+@media (min-width: 768px) {
+  .fixed.bottom-8.right-8 {
+    bottom: 12px;
+    right: 12px;
+  }
+
+  .fixed.bottom-8.right-8.sm\:bottom-12.sm\:right-12 {
+    bottom: 16px;
+    right: 16px;
+  }
+}
