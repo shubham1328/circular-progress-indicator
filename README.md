@@ -1,3 +1,6 @@
+#You can check the Demo of hosted url
+https://circular-progress-indicator.netlify.app/
+
 # Circular Progress Indicator
 
 A dynamic and responsive circular progress indicator built with **React**, **Redux**, and **TailwindCSS**. This project allows users to add, remove, and mark stages as completed while dynamically updating the circular progress visualization.
